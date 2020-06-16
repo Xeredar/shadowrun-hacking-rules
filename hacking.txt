@@ -1,0 +1,49 @@
+Homebrew Hacking
+
+Gegen: System + Firewall
+
+Drain Resist: INT + LOG
+
+Success: MN > EN
+Neutral: MN == EN (+1 Würfel next round)
+Failure: MN < EN (pot. Alarm + end of hack)
+Crit. Failure: 0MN && 1+EN (Alarm + end of hack + drain[System + Firewall])
+
+Wireless (LoS)
+Tethered +2 (mb. Dek Level / 2)
+
+Cybercombat
+	[Disable] (LOG)
+	Disable all electronic parts in the targeted object. Has no effect on Cyberlimbs.
+
+	[Reset] (LOG)
+	Resets the electronics in the targeted object to factory settings.
+
+Electronic Warfare
+	[Control] (LOG)
+	Take control of the targeted mechanism. Only works on systems that can be controlled remotely or work autonomously.
+
+	[Crack] (LOG)
+
+Hacking
+	[Bypass] (LOG)
+	Bypass targeted security measure. For example: a password or a firewall.
+
+	[Disrupt/Intercept] (LOG)
+	Disrupt or intercept the targeted data stream.
+
+Computer
+	[Find/Extract] (INT)
+	Find and/or extract the queried file from a data system.
+
+	[Obfuscate] (INT)
+	Scramble and encrypt the targeted data file(s).
+
+	[Execute] (LOG)
+
+Software
+	[Analyze] (INT)
+	Gather information about target system or file.
+
+	[Create] (INT)
+	Create a trigger + command combo. The command will execute as soon as the trigger happens.
