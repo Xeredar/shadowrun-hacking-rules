@@ -62,63 +62,60 @@ Combine the skill categorie of the command (Cybercombat, Electronic Warfare, ...
 
 ### Cybercombat
 	[Disable] _(LOG)_
-	Disable all electronic parts in the targeted object. Has no effect on Cyberlimbs.<br/>
-	Example: You target the gun of an orc thug down the corridor. You roll 3 successes, the gun <br/>
-	defends with 2. You succeed and every electronic attachment or gear of he gun cease to function.<br/>
-	Smart link grants no benefit, automatic munitions loader do not work anymore and programs on the<br/>
-	gun cannot be used.
+	Disable all electronic parts in the targeted object. Has no effect on Cyberlimbs.
+	Example: You target the gun of an orc thug down the corridor. You roll 3 successes, the gun defends with 2.
+	You succeed and every electronic attachment or gear of he gun cease to function. Smart link grants no 
+	benefit, automatic munitions loader do not work anymore and programs on the gun cannot be used.
 
 	[Reset] _(LOG)_
-	Resets the electronics in the targeted object to factory settings. Mostly used on cyberlimbs in<br/>
-	combat. Cyberlimbs have a safeguard against being disabled, so the most you can do is reset them.<br/>
-	They need some time to recalibrate themselves and are unusable until they are finished doing so.<br/>
+	Resets the electronics in the targeted object to factory settings. Mostly used on cyberlimbs in combat. 
+	Cyberlimbs have a safeguard against being disabled, so the most you can do is reset them.
+	They need some time to recalibrate themselves and are unusable until they are finished doing so.
 	The quality of the cyberlimb determines how long the recalibration takes.
 
 ### Electronic Warfare
 	[Control] _(LOG)_
-	Take control of the targeted mechanism. Only works on systems that can be controlled remotely<br/>
-	or work autonomously. For each netto succes, you maintain control over the system for one round<br/>
-	of combat. After that duration, you have to reenter the "Control" command. The gamemaster can<br/>
-	change this check to a prolonged test. As long as you succeed, you maintain control.
+	Take control of the targeted mechanism. Only works on systems that can be controlled remotely or work 
+	autonomously. For each netto succes, you maintain control over the system for one round of combat. After 
+	that duration, you have to reenter the "Control" command. The gamemaster can change this check to a 
+	prolonged test. As long as you succeed, you maintain control.
 
 	[Crack] _(LOG)_
-	Crack the encryption of a file. Not every file in the Shadowrun universe is encrypted,<br/>
-	actually, few are, but those usually are the most desirable ones. New schematics that can<br/>
-	be sold on the black market. The new merger informations that are valuable to competitors.
+	Crack the encryption of a file. Not every file in the Shadowrun universe is encrypted, actually, few are, 
+	but those usually are the most desirable ones. New schematics that can be sold on the black market. The 
+	new merger informations that are valuable to competitors.
 
 ### Hacking
 	[Bypass] _(LOG)_
-	Bypass targeted security measure. For example: a password or a firewall (not meaning the<br/>
-	FIREWALL attribute of the system). Usually the first command that a hacker has to enter.<br/>
-	Most systems have at least a very basic password protection. 
+	Bypass targeted security measure. For example: a password or a firewall (not meaning the FIREWALL 
+	attribute of the system). Usually the first command that a hacker has to enter. Most systems have at 
+	least a very basic password protection. 
 
 	[Disrupt/Intercept/Splice] _(LOG)_
-	Disrupt or intercept the targeted data stream. This can mean commlink communications,<br/>
-	emails or anything else on the matrix or the video feed of a camera. May also be used to<br/>
-	splice fake information back into the system - for example creating a video loop for security<br/>
-	cameras.
+	Disrupt or intercept the targeted data stream. This can mean commlink communications, emails or anything 
+	else on the matrix or the video feed of a camera. May also be used to splice fake information back into 
+	the system - for example creating a video loop for security cameras.
 
 ### Computer
 	[Find/Extract] _(INT)_
-	Find and/or extract the queried file from a data system. Files can be found and extracted<br/>
-	without using this command, but with this method, the extraction leaves no trace at all.
+	Find and/or extract the queried file from a data system. Files can be found and extracted without using this 
+	command, but with this method, the extraction leaves no trace at all.
 
 	[Obfuscate] _(INT)_
-	Scramble and encrypt the targeted data file(s). This doesn't trigger any system checks,<br/>
-	because the file still exists, but it is factually unusable.
+	Scramble and encrypt the targeted data file(s). This doesn't trigger any system checks, because the 
+	file still exists, but it is factually unusable.
 
 	[Execute] _(LOG)_
-	Run a file on the targeted system. Similar to the "Find/Extract" command, you can execute<br/>
-	programs and files that are located on the target system without doing this check, but you<br/>
-	will leave a trace if you do.
+	Run a file on the targeted system. Similar to the "Find/Extract" command, you can execute programs and 
+	files that are located on the target system without doing this check, but you will leave a trace if you do.
 
 ### Software
 	[Analyze] _(INT)_
-	Gather information about target system or file. This can mean the recent user history,<br/>
-	contributers on a file, access tables or security rotations. The command does not leave a trace.
+	Gather information about target system or file. This can mean the recent user history, contributers on a 
+	file, access tables or security rotations. The command does not leave a trace.
 
 	[Create] _(INT)_
-	With this command, you create a little program, that executes another command when a<br/>
-	defined trigger occurs. You can define what this trigger is. Roll for the creation of<br/>
-	the program by using SOFTWARE + INTUITION. Then roll the check for the command that you<br/>
-	want executed. The successes will be used as soon as the trigger occurs.
+	With this command, you create a little program, that executes another command when a defined trigger occurs. 
+	You can define what this trigger is. Roll for the creation of the program by using SOFTWARE + INTUITION. 
+	Then roll the check for the command that you want executed. The successes will be used as soon as the trigger 
+	occurs.
