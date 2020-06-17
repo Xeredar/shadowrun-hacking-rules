@@ -1,3 +1,6 @@
+**[Version 1.3]**<br/>
+Added more verbose descriptions to the commands.
+
 **[Version 1.2]**<br/>
 Fixed some wording. Added some more descriptions. Fixed some formatting.
 
