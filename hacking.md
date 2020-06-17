@@ -52,43 +52,46 @@ To remove the tether, you have to use a complex action.
 
 ### Example modifiers:
 
-* Extensive talks with a user of the system might give you insight into the security measures or give you a clue of the password the user might use. You get a +2 bonus
-on commands agains the system.
+* Extensive talks with a user of the system might give you insight into the security measures or give you a clue of the password the user might use. You get a +2 dice pool 
+bonus on commands agains the system.
+* Finding documentation about the security system that carelessly is stored unsecured in the office you are breaking into right now might add a +1 dice pool bonus.
 
 ## 4. Commands
 
-### * Cybercombat
-	[Disable] (LOG)
+### Cybercombat
+	**[Disable]** _(LOG)_
 	Disable all electronic parts in the targeted object. Has no effect on Cyberlimbs.
 
-	[Reset] (LOG)
+	**[Reset]** _(LOG)_
 	Resets the electronics in the targeted object to factory settings.
 
-### * Electronic Warfare
-	[Control] (LOG)
+### Electronic Warfare
+	**[Control]** _(LOG)_
 	Take control of the targeted mechanism. Only works on systems that can be controlled remotely or work autonomously.
 
-	[Crack] (LOG)
+	**[Crack]** _(LOG)_
+	Crack the encryption of a file.
 
-### * Hacking
-	[Bypass] (LOG)
+### Hacking
+	**[Bypass]** _(LOG)_
 	Bypass targeted security measure. For example: a password or a firewall.
 
-	[Disrupt/Intercept] (LOG)
+	**[Disrupt/Intercept]** _(LOG)_
 	Disrupt or intercept the targeted data stream.
 
-### * Computer
-	[Find/Extract] (INT)
+### Computer
+	**[Find/Extract]** _(INT)_
 	Find and/or extract the queried file from a data system.
 
-	[Obfuscate] (INT)
+	**[Obfuscate]** _(INT)_
 	Scramble and encrypt the targeted data file(s).
 
-	[Execute] (LOG)
+	**[Execute]** _(LOG)_
+	Run a file on the targeted system.
 
-### * Software
-	[Analyze] (INT)
+### Software
+	**[Analyze]** _(INT)_
 	Gather information about target system or file.
 
-	[Create] (INT)
+	**[Create]** _(INT)_
 	Create a trigger + command combo. The command will execute as soon as the trigger happens.
