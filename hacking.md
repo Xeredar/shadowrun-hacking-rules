@@ -59,39 +59,39 @@ bonus on commands agains the system.
 ## 4. Commands
 
 ### Cybercombat
-	**[Disable]** _(LOG)_
+	[Disable] _(LOG)_
 	Disable all electronic parts in the targeted object. Has no effect on Cyberlimbs.
 
-	**[Reset]** _(LOG)_
+	[Reset] _(LOG)_
 	Resets the electronics in the targeted object to factory settings.
 
 ### Electronic Warfare
-	**[Control]** _(LOG)_
+	[Control] _(LOG)_
 	Take control of the targeted mechanism. Only works on systems that can be controlled remotely or work autonomously.
 
-	**[Crack]** _(LOG)_
+	[Crack] _(LOG)_
 	Crack the encryption of a file.
 
 ### Hacking
-	**[Bypass]** _(LOG)_
+	[Bypass] _(LOG)_
 	Bypass targeted security measure. For example: a password or a firewall.
 
-	**[Disrupt/Intercept]** _(LOG)_
+	[Disrupt/Intercept] _(LOG)_
 	Disrupt or intercept the targeted data stream.
 
 ### Computer
-	**[Find/Extract]** _(INT)_
+	[Find/Extract] _(INT)_
 	Find and/or extract the queried file from a data system.
 
-	**[Obfuscate]** _(INT)_
+	[Obfuscate] _(INT)_
 	Scramble and encrypt the targeted data file(s).
 
-	**[Execute]** _(LOG)_
+	[Execute] _(LOG)_
 	Run a file on the targeted system.
 
 ### Software
-	**[Analyze]** _(INT)_
+	[Analyze] _(INT)_
 	Gather information about target system or file.
 
-	**[Create]** _(INT)_
+	[Create] _(INT)_
 	Create a trigger + command combo. The command will execute as soon as the trigger happens.
